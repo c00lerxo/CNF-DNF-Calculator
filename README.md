@@ -20,6 +20,11 @@ with whitespaces after every variable and operator. You can use only () brackets
 > * -> - implication
 > * <=> - equivalence
 
+Example formula:
+> p -> (q <=> (p and r))
+
+To avoid bugs, use up to 3 variables.
+
 # Version
 
 Current project version is 1.0.
