@@ -10,6 +10,8 @@ in the Summer Semester of first year of studies on UAM (2017).
 
 # How to use it?
 
+The .jar file, which you have to open to execute the application, is contained in /dist directory.
+
 To use the Calculator, you have to enter in the input field formula in form
 > p [operator] q,
 
